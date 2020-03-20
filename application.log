@@ -1,0 +1,114 @@
+2020-03-04 15:26:10 INFO  Log:33 - ********** Verify  user should be able to scroll educational screens in mobile number entry screen. ******
+2020-03-04 15:26:16 INFO  Log:33 - ======== Verifying the Educational screens are scrollable  =====
+2020-03-04 15:26:19 INFO  Log:33 - ======== Educational screens are scrolled successfully  =====
+2020-03-04 15:26:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:26:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:26:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:26:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:26:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:26:20 INFO  Log:33 - ********** Verify that Mobile number entry screen UI should be as per XD screens. ******
+2020-03-04 15:26:20 INFO  Log:33 - ========Verifying the Mobile Number Field =====
+2020-03-04 15:26:20 INFO  Log:33 - =======Mobile Number Field has been verified successfully=====
+2020-03-04 15:26:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:26:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:26:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:26:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:26:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:26:20 INFO  Log:33 - ******* Verify that the Default country code should displayed as +63 in mobile number entry screen. ******
+2020-03-04 15:26:21 INFO  Log:33 - ========Verifying the country code field =====
+2020-03-04 15:26:21 INFO  Log:33 - ========Default country code '+63' is displayed =====
+2020-03-04 15:26:21 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:26:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:26:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:26:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:26:21 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:26:21 INFO  Log:33 - ******* Verify that tap on country code dropdown should display all the country codes ******
+2020-03-04 15:26:26 INFO  Log:33 - ========Verifying the list of country codes available after clicking on country code drop down =====
+2020-03-04 15:26:28 INFO  Log:33 - ======= List of country codes are displayed successfully on tapping on country code drop down button =====
+2020-03-04 15:26:28 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:26:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:26:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:26:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:26:28 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:26:28 INFO  Log:33 - ******* Verify search feature in Countries screen. ******
+2020-03-04 15:26:28 INFO  Log:33 - ======== Verifying the Search Bar in the country list screen ======
+2020-03-04 15:26:29 INFO  Log:33 - ======= Country search bar displayed successfully =====
+2020-03-04 15:26:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:26:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:26:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:26:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:26:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:26:29 INFO  Log:33 - ******* Verify that user should be able to select the county code successfully. ******
+2020-03-04 15:26:29 INFO  Log:33 - ========Entering 'INDIA' in the Search Field =====
+2020-03-04 15:26:32 INFO  Log:33 - =======Search Result for 'INDIA' has been verified successfully=====
+2020-03-04 15:26:32 INFO  Log:33 - =======Selecting code for INDIA '(+91) '=====
+2020-03-04 15:26:33 INFO  Log:33 - ======== Country code '+91' is displayed =====
+2020-03-04 15:26:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:26:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:26:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:26:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:26:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:26:33 INFO  Log:33 - ******* Verify registration with out selecting any county code. ******
+2020-03-04 15:26:33 INFO  Log:33 - ======== Clearing the country code =====
+2020-03-04 15:26:33 INFO  Log:33 - ========Entering the Mobile Number Field =====
+2020-03-04 15:26:34 INFO  Log:33 - ======== Entering the mobile Number =====
+2020-03-04 15:26:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:26:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:26:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:26:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:26:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:27:48 INFO  Log:33 - ********** Verify  user should be able to scroll educational screens in mobile number entry screen. ******
+2020-03-04 15:27:54 INFO  Log:33 - ======== Verifying the Educational screens are scrollable  =====
+2020-03-04 15:27:57 INFO  Log:33 - ======== Educational screens are scrolled successfully  =====
+2020-03-04 15:27:57 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:27:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:27:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:27:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:27:57 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:27:57 INFO  Log:33 - ********** Verify that Mobile number entry screen UI should be as per XD screens. ******
+2020-03-04 15:27:57 INFO  Log:33 - ========Verifying the Mobile Number Field =====
+2020-03-04 15:27:58 INFO  Log:33 - =======Mobile Number Field has been verified successfully=====
+2020-03-04 15:27:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:27:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:27:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:27:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:27:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:27:58 INFO  Log:33 - ******* Verify that the Default country code should displayed as +63 in mobile number entry screen. ******
+2020-03-04 15:27:58 INFO  Log:33 - ========Verifying the country code field =====
+2020-03-04 15:27:58 INFO  Log:33 - ========Default country code '+63' is displayed =====
+2020-03-04 15:27:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:27:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:27:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:27:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:27:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:27:58 INFO  Log:33 - ******* Verify that tap on country code dropdown should display all the country codes ******
+2020-03-04 15:28:03 INFO  Log:33 - ========Verifying the list of country codes available after clicking on country code drop down =====
+2020-03-04 15:28:05 INFO  Log:33 - ======= List of country codes are displayed successfully on tapping on country code drop down button =====
+2020-03-04 15:28:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:28:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:28:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:28:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:28:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:28:05 INFO  Log:33 - ******* Verify search feature in Countries screen. ******
+2020-03-04 15:28:05 INFO  Log:33 - ======== Verifying the Search Bar in the country list screen ======
+2020-03-04 15:28:06 INFO  Log:33 - ======= Country search bar displayed successfully =====
+2020-03-04 15:28:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:28:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:28:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:28:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:28:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:28:06 INFO  Log:33 - ******* Verify that user should be able to select the county code successfully. ******
+2020-03-04 15:28:06 INFO  Log:33 - ========Entering 'INDIA' in the Search Field =====
+2020-03-04 15:28:09 INFO  Log:33 - =======Search Result for 'INDIA' has been verified successfully=====
+2020-03-04 15:28:09 INFO  Log:33 - =======Selecting code for INDIA '(+91) '=====
+2020-03-04 15:28:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:28:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:28:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:28:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:28:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-04 15:28:10 INFO  Log:33 - ******* Verify registration with out selecting any county code. ******
+2020-03-04 15:28:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-03-04 15:28:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-03-04 15:28:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-04 15:28:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-04 15:28:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/rashmi/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
